@@ -6,7 +6,7 @@ const FORBID_UPPER_INITIALS = new Set(["う", "つ", "し", "も", "ゆ"]);
 const SLOT_CAPACITY = 22;
 const ENCIRCLE_EDGE_BAND = 11;
 
-const SITE_URL = "https://example.com";
+const SITE_URL = "https://karuta-teiichi-maker.vercel.app";
 const CONTACT_EMAIL = "xxxxx@example.com";
 const ADSENSE_PUBLISHER_ID = "ca-pub-XXXXXXXXXXXXXXXX";
 const ADSENSE_SLOT_SIDEBAR = "0000000001";
