@@ -7,7 +7,7 @@ const SLOT_CAPACITY = 22;
 const ENCIRCLE_EDGE_BAND = 11;
 
 const SITE_URL = "https://karuta-teiichi-maker.vercel.app";
-const CONTACT_EMAIL = "xxxxx@example.com";
+const CONTACT_EMAIL = "toakaru0422@gmail.com";
 const ADSENSE_PUBLISHER_ID = "ca-pub-XXXXXXXXXXXXXXXX";
 const ADSENSE_SLOT_SIDEBAR = "0000000001";
 const ADSENSE_SLOT_RESULT = "0000000002";
